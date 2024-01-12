@@ -1,0 +1,9 @@
+# Imported python cache
+__pycache__/
+
+# Data storage file
+file.json
+
+# Auto generated files
+*~
+*.swp
